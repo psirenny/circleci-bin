@@ -8,7 +8,6 @@
 .flowconfig
 .gitignore
 .huskyrc
-.npmrc
 .nyc_output
 .nycrc
 .remarkignore
