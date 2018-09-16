@@ -123,9 +123,10 @@
   "scripts": {
     "audit": "nsp check",
     "build": "rollup -c rollup.config.js -o dist/install-binary src/code/scripts/install-binary",
-    "check": "npm-run-all audit ci:validate fixpack lint test test:cov typecheck",
+    "check": "npm-run-all audit ci:validate ci:run fixpack lint test test:cov typecheck",
     "ci:postcheck": "greenkeeper-lockfile-upload",
     "ci:precheck": "greenkeeper-lockfile-update",
+    "ci:run": ".bin/circleci build --job check",
     "ci:validate": ".bin/circleci config validate",
     "clean": "trash **.DS_Store *.log .bin .nyc_output coverage dist node_modules",
     "fix": "npm-run-all fixpack",
