@@ -100,7 +100,7 @@
     "retext-spell": "2.3.1",
     "retext-syntax-mentions": "1.1.4",
     "retext-syntax-urls": "1.0.0",
-    "rollup": "0.65.2",
+    "rollup": "0.66.0",
     "rollup-plugin-babel": "4.0.3",
     "rollup-plugin-hashbang": "1.0.1",
     "tempy": "0.2.1",
