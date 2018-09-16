@@ -136,7 +136,7 @@
     "lint": "npm-run-all lint:js lint:md",
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
-    "outdated": "ncu",
+    "outdated": "ncu --newest",
     "postinstall": "npm-run-all build install:bin",
     "test": "nyc ava",
     "test:cov": "nyc check-coverage",
