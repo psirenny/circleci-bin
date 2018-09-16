@@ -126,7 +126,7 @@
     "ci:postcheck": "greenkeeper-lockfile-upload",
     "ci:precheck": "greenkeeper-lockfile-update",
     "ci:validate": ".bin/circleci config validate",
-    "clean": "trash **.DS_Store *.log .nyc_output coverage dist node_modules",
+    "clean": "trash **.DS_Store *.log .bin .nyc_output coverage dist node_modules",
     "fix": "npm-run-all fixpack",
     "fixpack": "fixpack",
     "lint": "npm-run-all lint:js lint:md",
