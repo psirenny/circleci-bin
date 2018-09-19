@@ -15,7 +15,6 @@
 ava.config.js
 circleci-version.js
 coverage
-greenkeeper.json
 rollup.config.js
 src
 test
