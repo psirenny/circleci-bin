@@ -63,7 +63,6 @@
     "fixpack": "2.3.1",
     "flow-bin": "0.81.0",
     "greenkeeper-lockfile": "2.7.1",
-    "npm-check-updates": "3.0.0-alpha.3",
     "npm-run-all": "4.1.3",
     "nsp": "3.2.1",
     "nyc": "13.1.0",
@@ -105,7 +104,8 @@
     "rollup-plugin-hashbang": "1.0.1",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
-    "unified": "7.0.0"
+    "unified": "7.0.0",
+    "updates": "4.3.0"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
   "keywords": [
@@ -121,26 +121,26 @@
     "url": "https://github.com/psirenny/circleci-bin"
   },
   "scripts": {
-    "audit": "nsp check",
     "build": "rollup -c rollup.config.js -o dist/install-binary src/code/scripts/install-binary",
-    "check": "npm-run-all audit fixpack lint test test:cov typecheck",
+    "check": "npm-run-all deps:audit fixpack lint test test:cov typecheck",
     "ci:check": "ci:validate ci:run",
     "ci:run": ".bin/circleci build --job check",
     "ci:validate": ".bin/circleci config validate",
     "clean": "trash **.DS_Store *.log .bin .nyc_output coverage dist node_modules",
+    "deps:audit": "synp --source-file yarn.lock; npm audit; rm -f package-lock.json",
+    "deps:updates:check": "updates -gp",
+    "deps:updates:update": "updates -gpu",
     "fix": "npm-run-all fixpack",
     "fixpack": "fixpack",
     "install:bin": "dist/install-binary",
     "lint": "npm-run-all lint:js lint:md",
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
-    "outdated": "ncu --newest",
     "postinstall": "npm-run-all build install:bin",
     "test": "nyc ava",
     "test:cov": "nyc check-coverage",
     "test:cov:report": "nyc report --reporter=html",
     "typecheck": "flow .",
-    "update": "npm-run-all update:code update:npm",
     "update:bin": "babel-node src/code/scripts/update-version",
     "update:npm": "ncu -u"
   },
