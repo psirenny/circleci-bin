@@ -128,6 +128,7 @@
     "ci:validate": ".bin/circleci config validate",
     "clean": "trash **.DS_Store *.log .bin .nyc_output coverage dist node_modules",
     "install:bin": "dist/install-binary",
+    "install:dev": "yarn install --ignore-scripts && yarn run build && yarn install --force",
     "lint": "run-s lint:js lint:md lint:pkg",
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",

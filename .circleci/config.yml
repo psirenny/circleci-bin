@@ -1,15 +1,14 @@
 version: 2
 jobs:
-  build_and_check:
+  check:
     docker:
       - image: circleci/node:10.9.0
     steps:
       - checkout
-      - run: yarn install --ignore-scripts
-      - run: yarn run build
+      - run: yarn run install:dev
       - run: yarn run check
 workflows:
   version: 2
   check:
     jobs:
-      - build_and_check
+      - check
