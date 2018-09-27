@@ -1,6 +1,6 @@
 {
   "name": "circleci-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CircleCI local command line tool distributed as a node module",
   "author": "Dennis Torres <djtorres0@gmail.com>",
   "bin": {
