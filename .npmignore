@@ -8,6 +8,7 @@
 .flowconfig
 .gitignore
 .huskyrc
+.npmpackagejsonlintrc.json
 .nyc_output
 .nycrc
 .remarkignore

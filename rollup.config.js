@@ -13,7 +13,7 @@ export default {
     'tempy',
   ],
   output: {
-    format: ['cjs'],
+    format: 'cjs',
   },
   plugins: [
     rollupPluginHashbang(),
