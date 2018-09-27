@@ -6,9 +6,7 @@
   "bin": {
     "circleci": ".bin/circleci"
   },
-  "bugs": {
-    "url": "https://github.com/psirenny/circleci-bin/issues"
-  },
+  "bugs": "https://github.com/psirenny/circleci-bin/issues",
   "dependencies": {
     "decompress": "4.2.0",
     "fs-extra": "7.0.0",
@@ -112,18 +110,10 @@
     "updates": "4.3.0"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
-  "keywords": [
-    "binary",
-    "ci",
-    "circle",
-    "cli"
-  ],
+  "keywords": ["binary", "CircleCI", "cli", "local"],
   "license": "Unlicense",
   "main": "dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/psirenny/circleci-bin"
-  },
+  "repository": "github:psirenny/circleci-bin",
   "scripts": {
     "audit": "synp --source-file yarn.lock; npm audit; rm -f package-lock.json",
     "build": "rollup -c rollup.config.js -o dist/install-binary src/code/scripts/install-binary",
