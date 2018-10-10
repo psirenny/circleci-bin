@@ -5,7 +5,7 @@ import { compare as dirCompare } from 'dir-compare';
 import { join as pathJoin } from 'path';
 import { directory as tempyDirectory } from 'tempy';
 import uname from 'node-uname';
-import { installBinary } from '../../src';
+import { version, installBinary } from '../../src';
 import stubUnameDarwin from './fixtures/stubs/uname_darwin';
 import stubUnameUnknown from './fixtures/stubs/uname_unknown';
 
@@ -14,8 +14,8 @@ test('scripts: install binary', async t => {
   const dir = tempyDirectory();
 
   uname.uname = stubUnameDarwin;
-  await installBinary({ dir, version: '0.1.2211' });
-  const diff = await dirCompare(dirFixture, dir, { compareContent: true });
+  await installBinary({ dir, version });
+  const diff = await dirCompare(dirFixture, dir);
 
   t.true(diff.same);
 });
@@ -39,7 +39,7 @@ test('scripts: install binary asset not found', async t => {
 
   try {
     uname.uname = stubUnameUnknown;
-    await installBinary({ dir, version: '0.1.2211' });
+    await installBinary({ dir, version });
   } catch (err) {
     t.truthy(err);
   }
