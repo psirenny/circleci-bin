@@ -1,15 +1,14 @@
 // @flow
 
 export type GitHubAsset = {|
-  id: number,
-  label: string,
-  name: string,
-  node_id: string,
-  url: string,
   browser_download_url: string,
   content_type: string,
   created_at: string,
   download_count: number,
+  id: number,
+  label: string,
+  name: string,
+  node_id: string,
   size: number,
   state: string,
   updated_at: string,
@@ -33,4 +32,5 @@ export type GitHubAsset = {|
     type: string,
     url: string,
   },
+  url: string,
 |};

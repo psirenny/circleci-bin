@@ -1,6 +1,7 @@
 // @flow
 
 /* eslint-disable max-len */
+/* eslint-disable sort-keys */
 
 export default async () => [
   {
