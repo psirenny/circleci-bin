@@ -102,7 +102,7 @@
     "retext-spell": "2.3.1",
     "retext-syntax-mentions": "1.1.4",
     "retext-syntax-urls": "1.0.0",
-    "rollup": "0.67.0",
+    "rollup": "0.67.1",
     "rollup-plugin-babel": "4.1.0-0",
     "rollup-plugin-hashbang": "1.0.1",
     "standard-version": "5.0.0-candidate.0",
