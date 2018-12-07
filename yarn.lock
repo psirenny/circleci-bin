@@ -6624,10 +6624,10 @@ retext-passive@1.3.2:
     unist-util-find-before "^2.0.0"
     unist-util-position "^3.0.0"
 
-retext-profanities@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-4.5.0.tgz#bea7126bc1a6f94266e8e4d5cb761a673a7da132"
-  integrity sha512-vEfVSm0VCzW1mzc9nIIF51gdbhcmABzDTxlkbKF3CtSMwELmGNE9jkWzx1LzQq6pcaYzDSO2Ng4IsCZ9ctFM5A==
+retext-profanities@4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/retext-profanities/-/retext-profanities-4.6.0.tgz#07d813e80c1c9cf588ae4b49b341060fe8e505f0"
+  integrity sha512-dUQn440mDWWt2cgxapM+ymMfyTwzb6Z2ajJ1Sw6xkq6lTFz2cyQyEiCLCwu/ZeaIQWBCTofVA0Z/S9KxWUTcbw==
   dependencies:
     cuss "^1.11.0"
     lodash.difference "^4.5.0"
