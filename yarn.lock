@@ -6779,10 +6779,10 @@ retext-english@3.0.2:
     parse-english "^4.0.0"
     unherit "^1.0.4"
 
-retext-equality@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.6.0.tgz#0c60b0ece5a8837aa81cd47e6fe7b5c702e8e139"
-  integrity sha512-h9iRVfPtJOyscrSmQ47RmdVJX5La+XC/cDFrTokOrZiRRf0GpUsfBEsfa4K2Zil8Shl5YYI9hEaUzF1f4A+lYA==
+retext-equality@3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.7.0.tgz#af6a0a2c9def5655ceb76ebfd7beff97f8466002"
+  integrity sha512-Vo0v8PXU9WHhtz0x4gVMk0iLmdX3MFKCcpKAI+NGKDIwha9n4T1ZvOGC8VdJItNBwkQeoduGXme8x63MxOyMEg==
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
