@@ -3360,10 +3360,10 @@ flesch@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flesch/-/flesch-1.0.3.tgz#f4045e3ce7777af442d249df6d2120305294d196"
 
-flow-bin@0.87.0:
-  version "0.87.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.87.0.tgz#fab7f984d8cc767e93fa9eb01cf7d57ed744f19d"
-  integrity sha512-mnvBXXZkUp4y6A96bR5BHa3q1ioIIN2L10w5osxJqagAakTXFYZwjl0t9cT3y2aCEf1wnK6n91xgYypQS/Dqbw==
+flow-bin@0.88.0:
+  version "0.88.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.88.0.tgz#e4c7bd93da2331f6ac1733fbe484b1b0c52eb548"
+  integrity sha512-SnUCuhHP0JZaXQ83w4iTthfTInAg8DIBZCo1xIqDhFmQ6XNEMYMwYhPoMQyELRrkbTpyCYmf4g93y0UQw0dibw==
 
 flush-write-stream@^1.0.0:
   version "1.0.3"
@@ -6779,10 +6779,10 @@ retext-english@3.0.2:
     parse-english "^4.0.0"
     unherit "^1.0.4"
 
-retext-equality@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.6.0.tgz#0c60b0ece5a8837aa81cd47e6fe7b5c702e8e139"
-  integrity sha512-h9iRVfPtJOyscrSmQ47RmdVJX5La+XC/cDFrTokOrZiRRf0GpUsfBEsfa4K2Zil8Shl5YYI9hEaUzF1f4A+lYA==
+retext-equality@3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.7.0.tgz#af6a0a2c9def5655ceb76ebfd7beff97f8466002"
+  integrity sha512-Vo0v8PXU9WHhtz0x4gVMk0iLmdX3MFKCcpKAI+NGKDIwha9n4T1ZvOGC8VdJItNBwkQeoduGXme8x63MxOyMEg==
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
