@@ -108,7 +108,7 @@
     "standard-version": "5.0.0-candidate.0",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
-    "unified": "7.0.2",
+    "unified": "7.1.0",
     "updates": "5.4.3"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
