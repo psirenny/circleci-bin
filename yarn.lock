@@ -1190,10 +1190,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.4.2.tgz#b1fbf7bbf6cd4f2dbcc54b8aa9e18354568dc335"
   integrity sha512-yu+A5Su9rv9LCdisdF36ddg5+9k+dgPdST8L1Qsa8D9QREoACSxa1/EQHoUrGObj+IcFwlFMrhCJltb+tZ0nSw==
 
-"@psirenny/dictionary@1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-1.4.2.tgz#624593c53c10eaf92d8bcd8d07a5a422df3be3c1"
-  integrity sha512-+5ZO6Fc4u1Q9xWn8FgSOZ0j6oe3Y+4uwVNQ/DwgoTeSShy61fkSRjgrR2/kQ/UPHsr0jpEuoVG6MF4E3r/RIxg==
+"@psirenny/dictionary@1.4.3":
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-1.4.3.tgz#8e480fad005558dc531c2e8b9a8b3fdd1c6e60ac"
+  integrity sha512-ogq9azwWxoo85zJppSGgEwhTN5lxe6cODpT9dzE9yL6b+AIvZW+kvJ+pXCs38rP377uH//d0IyFFP5MYNYx8zQ==
 
 "@psirenny/eslint-config@1.6.4":
   version "1.6.4"
@@ -1210,12 +1210,12 @@
   resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-1.4.2.tgz#7b96c01482c524286329f387b656a5abe35ac9a3"
   integrity sha512-ev/SaEoS0EgJ2Jlx07Ht8ZpCOs7mY1hVEPYEQPZhYU0pPRyUzDlq6AF0oh3jemo0WlTsjPQehMyCsZY+dWCDHA==
 
-"@psirenny/retext-preset@1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-1.4.2.tgz#898183bdbe53832019d6dd79d311ad4ae979b7e6"
-  integrity sha512-jvUS51Qcd5JNHNRsFMzuByseps914+gf/h2lcaPB7Zj5/mE6IdGqHdQZ+5YOhyjP6r0YafaTzQKFWL7Fq854MA==
+"@psirenny/retext-preset@1.4.3":
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-1.4.3.tgz#d077d3847004ba665ea45d0a9d35e74b209dee80"
+  integrity sha512-4ZwJQ2hfnnP5R460klmqnNBPnodKbgfX8Kn1tLeGQAIT4mEOCoZA9HWj2EzzU23SxJwC/lRzu8+Ucc6ZqhDTMg==
   dependencies:
-    "@psirenny/dictionary" "1.4.2"
+    "@psirenny/dictionary" "1.4.3"
 
 "@sindresorhus/df@^1.0.1":
   version "1.0.1"
