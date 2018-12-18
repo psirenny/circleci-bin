@@ -1185,10 +1185,10 @@
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.2.tgz#54c5a964462be3d4d78af631363c18d6fa91ac26"
 
-"@psirenny/babel-preset@1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.4.2.tgz#b1fbf7bbf6cd4f2dbcc54b8aa9e18354568dc335"
-  integrity sha512-yu+A5Su9rv9LCdisdF36ddg5+9k+dgPdST8L1Qsa8D9QREoACSxa1/EQHoUrGObj+IcFwlFMrhCJltb+tZ0nSw==
+"@psirenny/babel-preset@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.5.0.tgz#47a637b82d1d63c94a11ab4521ce657bfdc4aeeb"
+  integrity sha512-4W7PCHRfoaOFcMHixa8GaCjLxEIrfXYsGwwx3VqOLO11FvlC8wj0Vb8874+otd4QD/9by1sbFyezJZ70h0RXvA==
 
 "@psirenny/dictionary@1.4.2":
   version "1.4.2"
