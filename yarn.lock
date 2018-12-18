@@ -1195,10 +1195,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-1.4.2.tgz#624593c53c10eaf92d8bcd8d07a5a422df3be3c1"
   integrity sha512-+5ZO6Fc4u1Q9xWn8FgSOZ0j6oe3Y+4uwVNQ/DwgoTeSShy61fkSRjgrR2/kQ/UPHsr0jpEuoVG6MF4E3r/RIxg==
 
-"@psirenny/eslint-config@1.6.4":
-  version "1.6.4"
-  resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-1.6.4.tgz#5df1784c917e4daac9686f23318c44815a7a437f"
-  integrity sha512-OWBb/ivJ6tcfAcM3KrsOdHX1iRh7ywqqbyv3N/QaxRuV9xYYMDdxBEKQry/shq6UlDy3D8jFYwXvSDRtwGC2Pg==
+"@psirenny/eslint-config@1.6.5":
+  version "1.6.5"
+  resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-1.6.5.tgz#1bc1b069e71d4023a6653180ecd6b5b2947efe76"
+  integrity sha512-JB0NtVBDvN+IqkCcZDY3B6DPD9JOr2kdASGbAH2IINe9mLeSMjxI+Qg4Gz0edbxvyL8U+7Bs+VLDdzJxr53/rQ==
 
 "@psirenny/npm-package-json-lint-config@1.2.2":
   version "1.2.2"
