@@ -2869,10 +2869,10 @@ eslint-module-utils@^2.2.0:
     debug "^2.6.8"
     pkg-dir "^1.0.0"
 
-eslint-plugin-array-func@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-array-func/-/eslint-plugin-array-func-3.1.0.tgz#e48e2a22ef5f9065471c7c91c17507f3c27baa9b"
-  integrity sha512-O5s+MRmatsfDdliVycH53CNDGgfsoRpFBQL0X8EbLxz9edbSzt/c1lcUG8hFRIsy+h6vO13/V0AixWOQAsoHXg==
+eslint-plugin-array-func@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-array-func/-/eslint-plugin-array-func-3.1.1.tgz#47e5b3dca2d069a1da5d8ed3caea485bafc37934"
+  integrity sha512-0zF+x2mcvJcPIRp2YjNISCCbEIFfqSvCNfhvVwhUsj1senKUD/VPrZBKlw0sIJPDBRecKtA6YxL+CLNVYxjdjQ==
 
 eslint-plugin-ava@5.1.1:
   version "5.1.1"
