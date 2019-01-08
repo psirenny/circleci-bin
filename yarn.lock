@@ -6892,10 +6892,10 @@ retext-repeated-words@1.2.2:
     unist-util-is "^2.0.0"
     unist-util-visit "^1.1.0"
 
-retext-sentence-spacing@2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-2.0.3.tgz#529531b58c260c5804c679fa981f280d75a12c65"
-  integrity sha512-m5KwLKIap5MCNC1qA1QfUq0f8sCX50ThluK5GiqXxGZm5OJRqNS+uktQdUSiKAhmGxlctTYAcINgERmpXBclJQ==
+retext-sentence-spacing@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/retext-sentence-spacing/-/retext-sentence-spacing-2.1.0.tgz#cef60a0fd8c8301927383fcd35a4e2cced084869"
+  integrity sha512-s2cfNnhXrKvy/uilfeFzUj/gawZT2CV2ZegGVxRxTs+JYASD3TMPr6EH5m9gd5ORpFG52ALuZaizoF1UZvMXhg==
   dependencies:
     nlcst-to-string "^2.0.0"
     plur "^2.1.2"
