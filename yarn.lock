@@ -6140,7 +6140,18 @@ remark-lint-heading-style@1.0.2, remark-lint-heading-style@^1.0.0:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-link-title-style@1.0.2, remark-lint-link-title-style@^1.0.0:
+remark-lint-link-title-style@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-1.0.3.tgz#4dd3aafaf9824523d4f0c8e11171581c89071702"
+  integrity sha512-1cJ/gNoIwX36FB0w8TiT+/Cy0evSJRyn0uV0jeB5Ik+fX+tVxHRkuX/DtmFw0fGImQW882r/3eaZHaKabVR1yg==
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+    vfile-location "^2.0.1"
+
+remark-lint-link-title-style@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-1.0.2.tgz#f96f424ce90c79a7344e72078ca51f8461f4c3bc"
   dependencies:
