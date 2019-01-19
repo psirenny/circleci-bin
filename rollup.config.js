@@ -1,7 +1,6 @@
 // @flow
 
 import rollupPluginBabel from 'rollup-plugin-babel';
-import rollupPluginHashbang from 'rollup-plugin-hashbang';
 
 export default {
   external: [
@@ -12,11 +11,14 @@ export default {
     'path',
     'tempy',
   ],
+  input: 'src/code/scripts/install-binary.js',
   output: {
+    banner: '#!/usr/bin/env node',
+    file: 'dist/install-binary',
     format: 'cjs',
+    name: 'InstallBinary',
   },
   plugins: [
-    rollupPluginHashbang(),
-    rollupPluginBabel(),
+    rollupPluginBabel({ babelHelpers: 'inline' }),
   ],
 };

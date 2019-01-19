@@ -104,7 +104,6 @@
     "retext-syntax-urls": "1.0.1",
     "rollup": "1.1.0",
     "rollup-plugin-babel": "5.0.0-alpha.0",
-    "rollup-plugin-hashbang": "1.0.1",
     "standard-version": "5.0.0-candidate.0",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
@@ -123,7 +122,7 @@
   "repository": "github:psirenny/circleci-bin",
   "scripts": {
     "audit": "yarn audit",
-    "build": "rollup -c rollup.config.js -o dist/install-binary src/code/scripts/install-binary",
+    "build": "rollup -c",
     "check": "run-s audit lint test test:cov typecheck",
     "ci:check": "ci:validate ci:run",
     "ci:run": ".bin/circleci build --job check",

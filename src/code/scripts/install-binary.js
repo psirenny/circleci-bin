@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 // @flow
 
 import installBinary from '../modules/install-binary';
