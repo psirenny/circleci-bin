@@ -104,6 +104,7 @@
     "retext-syntax-urls": "1.0.1",
     "rollup": "1.1.0",
     "rollup-plugin-babel": "5.0.0-alpha.0",
+    "rollup-plugin-executable": "1.4.3",
     "standard-version": "5.0.0-candidate.0",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
