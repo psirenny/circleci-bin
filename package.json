@@ -102,14 +102,14 @@
     "retext-spell": "2.4.0",
     "retext-syntax-mentions": "1.1.5",
     "retext-syntax-urls": "1.0.1",
-    "rollup": "1.1.0",
+    "rollup": "1.1.2",
     "rollup-plugin-babel": "5.0.0-alpha.0",
     "rollup-plugin-executable": "1.4.3",
     "standard-version": "5.0.0-candidate.0",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
     "unified": "7.1.0",
-    "updates": "6.0.3"
+    "updates": "6.2.1"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
   "keywords": [
