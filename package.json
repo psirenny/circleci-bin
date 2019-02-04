@@ -109,7 +109,7 @@
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
     "unified": "7.1.0",
-    "updates": "6.2.1"
+    "updates": "6.2.4"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
   "keywords": [
