@@ -4012,7 +4012,7 @@ homedir-polyfill@^1.0.1:
   dependencies:
     parse-passwd "^1.0.0"
 
-hosted-git-info@^2.1.4, hosted-git-info@^2.7.1:
+hosted-git-info@2.7.1, hosted-git-info@^2.1.4:
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
 
@@ -8269,15 +8269,15 @@ update-notifier@^2.5.0:
     semver-diff "^2.0.0"
     xdg-basedir "^3.0.0"
 
-updates@6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/updates/-/updates-6.2.1.tgz#b3685999073707099d84b4ce5f3e7f5c70906169"
-  integrity sha512-73KAzRIc3Z5t7b7HcPduK2eW2EL97QFRRrSfyp2gusR4ps3ZEReOK9KR+uL5sPo+OkLjwJaBvHjM+mq2JOQKxw==
+updates@6.2.4:
+  version "6.2.4"
+  resolved "https://registry.yarnpkg.com/updates/-/updates-6.2.4.tgz#24dbfb374b03c31809026d1174a9761570bcdfb8"
+  integrity sha512-VT3mXIdRWAERRZf6acQYrNLvNSi4Tu3oGQyCGpnatxsb52S95OWYt9vTn4FsMm0ZkQE4TR1pGYk5qF6x68BAYg==
   dependencies:
     chalk "2.4.2"
     escape-string-regexp "1.0.5"
     find-up "3.0.0"
-    hosted-git-info "^2.7.1"
+    hosted-git-info "2.7.1"
     make-fetch-happen "4.0.1"
     minimist "1.2.0"
     semver "5.6.0"
