@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 
 export type GitHubAsset = {|
   browser_download_url: string,

@@ -1,4 +1,4 @@
-// @flow
+// @flow strict
 
 /* eslint-disable max-len */
 /* eslint-disable sort-keys */

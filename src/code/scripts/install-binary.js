@@ -1,4 +1,4 @@
-// @flow
+// @flow strict-local
 
 import installBinary from '../modules/install-binary';
 import version from '../../../circleci-version';
