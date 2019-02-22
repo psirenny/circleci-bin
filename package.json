@@ -108,8 +108,7 @@
     "standard-version": "5.0.0-candidate.0",
     "tempy": "0.2.1",
     "trash-cli": "1.4.0",
-    "unified": "7.1.0",
-    "updates": "6.2.1"
+    "unified": "7.1.0"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
   "keywords": [
@@ -136,7 +135,7 @@
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
     "lint:pkg": "npmPkgJsonLint ./package.json",
-    "outdated": "updates -gp",
+    "outdated": "yarn outdated",
     "postinstall": "run-s install:bin",
     "release": "standard-version",
     "test": "nyc ava --verbose",
@@ -145,7 +144,7 @@
     "typecheck": "flow .",
     "update": "run-s update:bin update:npm",
     "update:bin": "babel-node src/code/scripts/update-version",
-    "update:npm": "updates -gpu"
+    "update:npm": "yarn upgrade-interactive --latest"
   },
   "sideEffects": false
 }
