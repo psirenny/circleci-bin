@@ -2,12 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.1.6](https://github.com/psirenny/circleci-bin/compare/v1.1.5...v1.1.6) (2019-01-21)
+## [1.1.7](https://github.com/psirenny/circleci-bin/compare/v1.1.6...v1.1.7) (2019-02-22)
 
 
 ### Bug Fixes
 
-* make binary executable ([ea17766](https://github.com/psirenny/circleci-bin/commit/ea17766))
+* replace insecure dependencies ([0d377e3](https://github.com/psirenny/circleci-bin/commit/0d377e3))
 
 
 
