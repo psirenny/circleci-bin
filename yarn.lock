@@ -2690,10 +2690,10 @@ dictionary-en-us@2.0.0:
   resolved "https://registry.yarnpkg.com/dictionary-en-us/-/dictionary-en-us-2.0.0.tgz#b9135f403444bb5e4b3cf465fb7d3f2fd276a839"
   integrity sha512-AK8iDBvTHD0bxcEFEDUtofQ9w8Po7ZQCrrZo06ELw3UngJcnjUoEwvrkQfdeRBRcKD+QG9RU6SPYFYGGbuEQXQ==
 
-dir-compare@1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.7.1.tgz#e2a05ef284afd689ea7549227e7bab6971456e4d"
-  integrity sha512-5H/h0a9u5F+/04W3VKMFDeZgFrrX6y7sk01z284/zUhg3hhjQN6Udvxcq8RFIikQP2rRvxlw3y1FmrvVzjc3Cw==
+dir-compare@1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.7.2.tgz#c85a95f15caf171782971a110b76c326e721e07b"
+  integrity sha512-4tAgs+dbsxB6z+O3tjtJabZQKfPGfIg476LrbAdlZ0yNr0LZ98+T5t4ZJrMNLUbLdN/lw37tPJ2TmYww09smxQ==
   dependencies:
     "@types/node" "^10.12.18"
     bluebird "3.4.1"
