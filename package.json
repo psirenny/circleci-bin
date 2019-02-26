@@ -51,7 +51,7 @@
     "babel-eslint": "10.0.1",
     "babel-plugin-preval": "3.0.1",
     "dictionary-en-us": "2.0.0",
-    "dir-compare": "1.7.1",
+    "dir-compare": "1.7.2",
     "eslint": "5.14.1",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-array-func": "3.1.3",
