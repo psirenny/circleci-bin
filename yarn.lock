@@ -1063,10 +1063,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@psirenny/babel-preset@1.5.1":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.5.1.tgz#7a93e999f01a085bc6db95b93f7d5a3bbf638103"
-  integrity sha512-7q7kWzO3mt3SOFPIjiiV1TvzxzLYHp34fYIMSJZNgr2YCotczIe4Qd9Yl+TuZTatiwfLsT0jBRpZ9+81+T9MXA==
+"@psirenny/babel-preset@1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-1.6.0.tgz#6a9f0590960f06b8a09fa190daaf563c47206629"
+  integrity sha512-zT5f7JLH/hrEuHnZJWnQ8EYYN5MiKd1Qc8505WFx8M6b/7VXt3zha3337lYakUA50+I3jggXE6UAFul3aIE0Mg==
 
 "@psirenny/dictionary@1.4.4":
   version "1.4.4"
