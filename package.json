@@ -43,7 +43,7 @@
     "@commitlint/cli": "7.5.2",
     "@commitlint/config-conventional": "7.5.0",
     "@psirenny/babel-preset": "1.5.1",
-    "@psirenny/eslint-config": "1.6.6",
+    "@psirenny/eslint-config": "1.7.0",
     "@psirenny/npm-package-json-lint-config": "1.2.4",
     "@psirenny/remark-preset": "1.4.4",
     "@psirenny/retext-preset": "1.4.4",
