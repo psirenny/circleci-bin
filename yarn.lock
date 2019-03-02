@@ -1083,10 +1083,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-1.2.4.tgz#baf2c13137e17771920e625ddea75858eefb3990"
   integrity sha512-pO7ebxLO+ioI8gOxtEtFoXz9w2TX804JJ8y+0w35BN7nHVXcGe7WKjjqwU7u9nUWLYsDnKJSdzzAF108LI536w==
 
-"@psirenny/remark-preset@1.4.4":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-1.4.4.tgz#2ca788a25988d984b6487cfa230930566d1f20b0"
-  integrity sha512-kjAuXROuJ8QckSuWwgzWj3Pu9tVRc0wToQKZ+ff76MyL669QNeDmojFdWSMYkYJ2vDU7PL9B9dRr/pU9nsRPjw==
+"@psirenny/remark-preset@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-1.5.0.tgz#a6ad8d84ddb759df3ca580c25553dcb25d0b973b"
+  integrity sha512-parQ8GYKNiKDmRgHt6Zg5zrZ/FmEjaFC7nhZUEFdxwRCjoKK4+PBYMptPmC2+mDty16EmSn/lNvcr+uuLUMfmg==
 
 "@psirenny/retext-preset@1.4.4":
   version "1.4.4"
