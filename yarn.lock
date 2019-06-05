@@ -7365,12 +7365,13 @@ retext-syntax-mentions@1.1.5:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.0"
 
-retext-syntax-urls@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/retext-syntax-urls/-/retext-syntax-urls-1.0.1.tgz#d7515deee86e43f625ce3fb5f87ebc158276bb14"
-  integrity sha512-FodfdOFSUp2WOBY7kcXPpXNy9WPnBQCXNVOrBgrY3dprc7qiwHvv5YlMCQKwBv5PS7+4ggcuiWAsP26qqVrXdg==
+retext-syntax-urls@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/retext-syntax-urls/-/retext-syntax-urls-1.0.2.tgz#50dd91a649576d2205a31821e03c76a63f475a28"
+  integrity sha512-Ud7i50IEP33OK9g5xCBIKh/DjoEdZi6sRJqnWDW3Wxt4B48llgfSbGLgiLeXZvJD923mOf7EAoLt/WjundXmwg==
   dependencies:
     nlcst-to-string "^2.0.0"
+    unist-util-is "^3.0.0"
     unist-util-modify-children "^1.1.1"
     unist-util-position "^3.0.0"
 
