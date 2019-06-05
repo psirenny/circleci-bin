@@ -7209,10 +7209,10 @@ retext-english@3.0.2:
     parse-english "^4.0.0"
     unherit "^1.0.4"
 
-retext-equality@3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.10.0.tgz#892c7acb82597662f044d8defb75ea9533e983da"
-  integrity sha512-+o1FjZfFLVUvHveF/MKCEbbjSaA0mA8AGvTtlb6hEI6B6Yil6CHNGZlp91ihLKZU+D6JWwV/GfG2PHFKt9P9aA==
+retext-equality@3.10.1:
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-3.10.1.tgz#405d8290955adf27dc608f03b26f5cc4e61608cd"
+  integrity sha512-waAAgQp9a7eDM00MQtOh5jZlv7v8yc0pOnE3azGmAgOz8jsbZEmavKw1f8vGjD20aZBdZtzrJUz9Pu73Xq6gLQ==
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
@@ -7221,6 +7221,7 @@ retext-equality@3.10.0:
     nlcst-to-string "^2.0.0"
     object-keys "^1.0.7"
     quotation "^1.0.1"
+    unist-util-is "^3.0.0"
     unist-util-visit "^1.0.0"
 
 retext-indefinite-article@1.1.6:
