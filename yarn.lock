@@ -3489,10 +3489,10 @@ flesch@^1.0.0:
   resolved "https://registry.yarnpkg.com/flesch/-/flesch-1.0.4.tgz#0e3d1f3e2f6f7448fbd799d10acd3d029879cab8"
   integrity sha512-PT0PbyEwA9EwCkaETWixiX5hbIT10ZC6k8F01piCpzNWBVimPVyjobFPq/8u9Vm5ikOdCpbFcVKrYRJ7+nxgjw==
 
-flow-bin@0.100.0:
-  version "0.100.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.100.0.tgz#729902726658cfa0a81425d6401f9625cf9f5534"
-  integrity sha512-jcethhgrslBJukH7Z7883ohFFpzLrdsOEwHxvn5NwuTWbNaE71GAl55/PEBRJwYpDvYkRlqgcNkANTv0x5XjqA==
+flow-bin@0.101.0:
+  version "0.101.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.101.0.tgz#c56fa0afb9c151eeba7954136e9066d408691063"
+  integrity sha512-2xriPEOSrGQklAArNw1ixoIUiLTWhIquYV26WqnxEu7IcXWgoZUcfJXufG9kIvrNbdwCNd5RBjTwbB0p6L6XaA==
 
 fn-name@^2.0.1:
   version "2.0.1"
