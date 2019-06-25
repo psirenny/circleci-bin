@@ -108,7 +108,7 @@
     "rollup-plugin-executable": "1.4.5",
     "standard-version": "6.0.1",
     "trash-cli": "3.0.0",
-    "unified": "7.1.0"
+    "unified": "8.0.0"
   },
   "homepage": "https://github.com/psirenny/circleci-bin",
   "keywords": [
