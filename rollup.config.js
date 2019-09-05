@@ -10,7 +10,7 @@ export default {
     'path',
     'tempy',
   ],
-  input: 'src/code/binary/circleci.js',
+  input: 'src/code/bin/circleci.js',
   output: {
     banner: '#!/usr/bin/env node',
     file: 'dist/circleci',
