@@ -7,15 +7,13 @@ export default {
   external: [
     'decompress',
     'fs-extra',
-    'node-fetch',
-    'node-uname',
     'path',
     'tempy',
   ],
-  input: 'src/code/scripts/install-binary.js',
+  input: 'src/code/binary/circleci.js',
   output: {
     banner: '#!/usr/bin/env node',
-    file: 'dist/install-binary',
+    file: 'dist/circleci',
     format: 'cjs',
   },
   plugins: [

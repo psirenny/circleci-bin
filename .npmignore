@@ -1,6 +1,5 @@
 *.log
 .babelrc
-.bin
 .circleci
 .commitlintrc.json
 .eslintignore
@@ -9,13 +8,16 @@
 .gitignore
 .huskyrc
 .npmpackagejsonlintrc.json
+.nvmrc
 .nyc_output
 .nycrc
 .remarkignore
 .remarkrc
+.yarn
 ava.config.js
-circleci-version.js
 coverage
+dist/circleci_v*
+flow-typed
 rollup.config.js
 src
 test

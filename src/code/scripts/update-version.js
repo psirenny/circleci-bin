@@ -1,5 +1,8 @@
-// @flow strict-local
+// @flow strict
 
-import updateVersion from '../modules/update-version';
+import { join as pathJoin } from 'path';
+import updateVersion from '../lib/update-version';
 
-updateVersion({ dir: process.cwd() });
+updateVersion({
+  dir: pathJoin(__dirname, '../bin'),
+});
