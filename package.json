@@ -4,7 +4,7 @@
   "description": "CircleCI local command line tool distributed as a node module",
   "author": "Dennis Torres <djtorres0@gmail.com>",
   "bin": {
-    "circleci": "bin/circleci"
+    "circleci": "dist/circleci"
   },
   "bugs": "https://github.com/psirenny/circleci-bin/issues",
   "dependencies": {
