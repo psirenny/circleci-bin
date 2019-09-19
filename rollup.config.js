@@ -5,8 +5,11 @@ import rollupPluginExecutable from 'rollup-plugin-executable';
 
 export default {
   external: [
+    'child_process',
     'decompress',
     'fs-extra',
+    'node-fetch',
+    'os',
     'path',
     'tempy',
   ],
