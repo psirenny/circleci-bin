@@ -1,3 +1,3 @@
 // @flow strict
 
-export default '0.1.5830';
+export default '0.1.5879';
