@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.16](https://github.com/psirenny/circleci-bin/compare/v1.1.15...v1.1.16) (2019-09-19)
+
+
+### Bug Fixes
+
+* fix path to binary ([4d7b81e](https://github.com/psirenny/circleci-bin/commit/4d7b81e))
+
 ### [1.1.15](https://github.com/psirenny/circleci-bin/compare/v1.1.14...v1.1.15) (2019-09-19)
 
 ### [1.1.14](https://github.com/psirenny/circleci-bin/compare/v1.1.13...v1.1.14) (2019-09-19)
