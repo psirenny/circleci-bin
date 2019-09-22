@@ -62,7 +62,7 @@
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-markdown": "1.0.0",
     "eslint-plugin-optimize-regex": "1.1.6",
-    "eslint-plugin-unicorn": "11.0.1",
+    "eslint-plugin-unicorn": "11.0.2",
     "flow-bin": "0.108.0",
     "greenkeeper-lockfile": "2.8.0",
     "husky": "3.0.5",
