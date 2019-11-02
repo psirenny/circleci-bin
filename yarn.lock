@@ -1196,11 +1196,6 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.5.tgz#e19436e7f8e9b4601005d73673b6dc4784ffcc2f"
   integrity sha512-9fq4jZVhPNW8r+UYKnxF1e2HkDWOWKM5bC2/7c9wPV835I0aOrVbS/Hw/pWPk2uKrNXQqg9Z959Kz+IYDd5p3w==
 
-"@types/node@^10.12.18":
-  version "10.14.18"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.18.tgz#b7d45fc950e6ffd7edc685e890d13aa7b8535dce"
-  integrity sha512-ryO3Q3++yZC/+b8j8BdKd/dn9JlzlHBPdm80656xwYUdmPkpTGTjkAdt6BByiNupGPE8w0FhBgvYy/fX9hRNGQ==
-
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
@@ -2704,12 +2699,11 @@ dictionary-en-us@2.1.1:
   resolved "https://registry.yarnpkg.com/dictionary-en-us/-/dictionary-en-us-2.1.1.tgz#efcdaebe04d19abe3483f33d9e2803e25c3c77aa"
   integrity sha512-3182Q3ede8TEm6FthZ2u8FppaayB+D43wy5cnOSweZwg9vSmmUCjCA3zxmMpZLw0nIAILGLR0j+06o2l9aaCzA==
 
-dir-compare@1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.7.3.tgz#8f25f9654de02d82b30f5c5c0dfc198ce612ed68"
-  integrity sha512-YsKGvVzy5938B9Rokol3N9jq4QcFhlgostWr+TX4omexpR0UztlbYu5UZRxZ0WTeLMFt+7TCIm7nn27byQKZHw==
+dir-compare@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.8.0.tgz#5dbc06682c0492519c733f76f43452414d8167d0"
+  integrity sha512-Ork/J37pKE6M+Fvl98OB+iAuZ5CG7d2d8DIMmiCDEZVAbEWn2lp+ghSbc1lgkgVX91p8jMQs2DeTMJvpMeU9+A==
   dependencies:
-    "@types/node" "^10.12.18"
     bluebird "3.4.1"
     buffer-equal "1.0.0"
     colors "1.0.3"
