@@ -49,7 +49,7 @@
     "@psirenny/retext-preset": "2.0.3",
     "ava": "2.4.0",
     "babel-eslint": "10.0.3",
-    "babel-plugin-preval": "3.0.1",
+    "babel-plugin-preval": "4.0.0",
     "dictionary-en-us": "2.1.1",
     "dir-compare": "1.8.0",
     "eslint": "6.6.0",
