@@ -41,7 +41,7 @@
     "@commitlint/cli": "8.2.0",
     "@commitlint/config-conventional": "8.2.0",
     "@psirenny/babel-preset": "2.0.1",
-    "@psirenny/dictionary": "2.0.1",
+    "@psirenny/dictionary": "2.0.2",
     "@psirenny/eslint-config": "2.0.1",
     "@psirenny/npm-package-json-lint-config": "2.0.1",
     "@psirenny/remark-preset": "2.0.2",
