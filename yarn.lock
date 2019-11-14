@@ -1121,10 +1121,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-2.0.1.tgz#ecd69e1984f33a75e3c39557b67473a79a4fbee4"
   integrity sha512-h/Q3ka0c/AZrrcN2iabkmRISny7CAirDbkarWV7lNRyjaixFvzSn8KnvL2oTj8byYLytBBF0Wx/vLgUDyTT6/Q==
 
-"@psirenny/eslint-config@2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-2.0.1.tgz#2d39a28427974377af2ac3596709aa3526989072"
-  integrity sha512-+AFsOM2weehFYiCH7ZCSLJ6Ve58PqdFvJfVspzY0/e9pUlpN6AM9v9eXllbLGuqg+bPznAc0CAWul5ZGDrxjQQ==
+"@psirenny/eslint-config@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-2.0.2.tgz#cf949530f8dc9e8a46aa98f8fc1c714813195d58"
+  integrity sha512-GtPp65vJkDKKJTiYTgcDvMKnQiWSBYznlRAPVFnjtOdkPZPLcX1brj7It4bLVvYaf5QWwci/6zO9aNykLR1gdQ==
 
 "@psirenny/npm-package-json-lint-config@2.0.1":
   version "2.0.1"
