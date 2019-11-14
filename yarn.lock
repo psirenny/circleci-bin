@@ -1121,6 +1121,11 @@
   resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-2.0.1.tgz#ecd69e1984f33a75e3c39557b67473a79a4fbee4"
   integrity sha512-h/Q3ka0c/AZrrcN2iabkmRISny7CAirDbkarWV7lNRyjaixFvzSn8KnvL2oTj8byYLytBBF0Wx/vLgUDyTT6/Q==
 
+"@psirenny/dictionary@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@psirenny/dictionary/-/dictionary-2.0.2.tgz#cbcfb6924a10ef79d56f66c18ebe1586c3e44906"
+  integrity sha512-Ysip/wnbQj9GWztPowTrlF8IxJEDkX0V5WD6vaGi9190ocjTz8wZGVJ0APKEKxvC4QdqBC1ZJOxMSEhm/WDPOA==
+
 "@psirenny/eslint-config@2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-2.0.1.tgz#2d39a28427974377af2ac3596709aa3526989072"
