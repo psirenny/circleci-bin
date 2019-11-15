@@ -5248,10 +5248,10 @@ normalize-url@^4.1.0:
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-4.5.0.tgz#453354087e6ca96957bd8f5baf753f5982142129"
   integrity sha512-2s47yzUxdexf1OhyRi4Em83iQk0aPvwTddtFz4hnSSw9dCEsLEGf6SwIO8ss/19S9iBb5sJaOuTvTGDeZI00BQ==
 
-npm-package-json-lint@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-4.1.0.tgz#cb4c3e95ea28998199ec43f53acb08b07d88f3eb"
-  integrity sha512-hSL0+QV3XyNHfZC93nCQKVtvyOumuohiHg9Mtjbfpsa43ZVvovg2bE9Qd+/2BHuX87DwpSYcdacBwhzQuvJi3g==
+npm-package-json-lint@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/npm-package-json-lint/-/npm-package-json-lint-4.1.1.tgz#875b3ce29191ec221315d02e86360c60c65d25a3"
+  integrity sha512-UxCN5h/NAA6PY5Qsn31x9u/ZhatlO9PuOUGcBB/5jzIgdoDKhkx1F1ObLBf3GqqxRyY/cOd4ru20NSxuK2DXkg==
   dependencies:
     ajv "^6.10.2"
     ajv-errors "^1.0.1"
