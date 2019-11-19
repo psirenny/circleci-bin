@@ -1144,10 +1144,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-2.0.2.tgz#057f39afedbe453dd79b59e803435c1f14326520"
   integrity sha512-ToO4HEOCQAuRr16FT0pnfTTo1MqOo2YsrChvdwVmt5OmybTHXIQ+Gl36k0+5PwD91tchJ0gmHZgpdPAPIAxN9A==
 
-"@psirenny/remark-preset@2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-2.0.3.tgz#9ce53af2bd0aaad09684aa89995287344fe02ccf"
-  integrity sha512-OwkjevbMizVpxUcwh0fbkT9zRw/gDPgevndSMpF87MkrNa8CmAz3OzUJ2SGmnkniqPAOOpCcaz9e5PAk2dVcAQ==
+"@psirenny/remark-preset@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-3.0.0.tgz#978d33319eedf6a7293a75a9019728ff1331b28e"
+  integrity sha512-zMREypaDl0E33VcwN/gN/f9xQqy1fZJewTpskGHndo1TQhnbXFt6AA0sWWbfnqam9EbiYVN7XsGrTejHxGSNWQ==
 
 "@psirenny/retext-preset@2.0.3":
   version "2.0.3"
