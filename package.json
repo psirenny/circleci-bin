@@ -36,7 +36,7 @@
     "@babel/plugin-proposal-unicode-property-regex": "7.7.4",
     "@babel/plugin-syntax-dynamic-import": "7.7.4",
     "@babel/plugin-syntax-import-meta": "7.7.4",
-    "@babel/plugin-transform-flow-strip-types": "7.6.3",
+    "@babel/plugin-transform-flow-strip-types": "7.7.4",
     "@babel/polyfill": "7.7.0",
     "@babel/preset-env": "7.7.1",
     "@commitlint/cli": "8.2.0",
