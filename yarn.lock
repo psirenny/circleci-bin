@@ -7038,10 +7038,10 @@ retext-english@3.0.4:
     parse-english "^4.0.0"
     unherit "^1.0.4"
 
-retext-equality@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-4.2.0.tgz#89ad472444f74e54656eada33ab7748fcbe7a2ef"
-  integrity sha512-7ie79FKs/unD01g3yciMqmKBInECngoCi1keH3HHhylepZ6IqQddzPPxSSHAnhGTCp4VD1WvlzNtet7Gsjl/Ow==
+retext-equality@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/retext-equality/-/retext-equality-4.3.0.tgz#818e00311f56517a8f9e72c8eb7fb87441f1f0d5"
+  integrity sha512-jW+6X5BrxVEaZ71qLIaqK6/Y+jqlxijVOcPH2SdHtNaMIHJWvBf5fd1IgHmEp0UREth0YQSI7KNtJurrSPQyMA==
   dependencies:
     lodash.difference "^4.5.0"
     lodash.intersection "^4.4.0"
