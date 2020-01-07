@@ -40,7 +40,7 @@
     "@babel/polyfill": "7.7.0",
     "@babel/preset-env": "7.7.1",
     "@commitlint/cli": "8.3.4",
-    "@commitlint/config-conventional": "8.2.0",
+    "@commitlint/config-conventional": "8.3.4",
     "@psirenny/babel-preset": "2.0.2",
     "@psirenny/dictionary": "2.0.2",
     "@psirenny/eslint-config": "2.0.2",
