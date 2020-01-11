@@ -2695,10 +2695,10 @@ dictionary-en-us@2.1.1:
   resolved "https://registry.yarnpkg.com/dictionary-en-us/-/dictionary-en-us-2.1.1.tgz#efcdaebe04d19abe3483f33d9e2803e25c3c77aa"
   integrity sha512-3182Q3ede8TEm6FthZ2u8FppaayB+D43wy5cnOSweZwg9vSmmUCjCA3zxmMpZLw0nIAILGLR0j+06o2l9aaCzA==
 
-dir-compare@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-1.8.0.tgz#5dbc06682c0492519c733f76f43452414d8167d0"
-  integrity sha512-Ork/J37pKE6M+Fvl98OB+iAuZ5CG7d2d8DIMmiCDEZVAbEWn2lp+ghSbc1lgkgVX91p8jMQs2DeTMJvpMeU9+A==
+dir-compare@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-2.0.0.tgz#bb4067a5133b063cbbca6c5021d0296f71c3bd58"
+  integrity sha512-vihILAkLAko92Xoos09HFpDhlBb08r1Zuj39hQ36SscR49NJxjOborAU4CWmNgKD7C8Xx6F1MvepGFZmD8DoBA==
   dependencies:
     bluebird "3.4.1"
     buffer-equal "1.0.0"
