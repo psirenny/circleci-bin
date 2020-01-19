@@ -2901,16 +2901,16 @@ eslint-plugin-array-func@3.1.3:
   resolved "https://registry.yarnpkg.com/eslint-plugin-array-func/-/eslint-plugin-array-func-3.1.3.tgz#384de52749b143d62a97869e438ea8361b49d921"
   integrity sha512-uRfJ4d9Fyyvxm6/w++++RSQoXZyERFF0+6zqupgg5Mw/+eG4y19yrptTghJlApntKlPZBpA4XCOIBzJbvLrArQ==
 
-eslint-plugin-ava@9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-ava/-/eslint-plugin-ava-9.0.0.tgz#a8d569ae7127aa640e344c46d1f288976543b1bd"
-  integrity sha512-mJqQ1wQ9pxBi5Pu+grrqjfuSLxiSSgnpa5p5vMdEpBqA9n9cUzSCv0xMZ/NkTMAj5ieOB3TWF8j+7C30Yiv4RA==
+eslint-plugin-ava@10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-ava/-/eslint-plugin-ava-10.0.0.tgz#bcc2a21da23c4dcf2a788a883d4e14916b08434b"
+  integrity sha512-jTmx2Xd4Arnk+S5GiueJIWstJRpGHCysp6ibVIFCbYSZNTtT1FaWHol04AavZXbzdnJTc5f0Ga0Gp7qm7GUmqQ==
   dependencies:
     deep-strict-equal "^0.2.0"
     enhance-visitors "^1.0.0"
-    espree "^6.0.0"
-    espurify "^2.0.0"
-    import-modules "^1.1.0"
+    espree "^6.1.2"
+    espurify "^2.0.1"
+    import-modules "^2.0.0"
     pkg-dir "^4.2.0"
     resolve-from "^5.0.0"
 
@@ -3088,7 +3088,7 @@ espower-location-detector@^1.0.0:
     source-map "^0.5.0"
     xtend "^4.0.0"
 
-espree@^6.0.0, espree@^6.1.1, espree@^6.1.2:
+espree@^6.1.1, espree@^6.1.2:
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/espree/-/espree-6.1.2.tgz#6c272650932b4f91c3714e5e7b5f5e2ecf47262d"
   integrity sha512-2iUPuuPP+yW1PZaMSDM9eyVf8D5P0Hi8h83YtZ5bPc/zHYjII5khoixIUTMO794NOY8F/ThF1Bo8ncZILarUTA==
@@ -3109,7 +3109,7 @@ espurify@^1.6.0:
   dependencies:
     core-js "^2.0.0"
 
-espurify@^2.0.0:
+espurify@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/espurify/-/espurify-2.0.1.tgz#c25b3bb613863daa142edcca052370a1a459f41d"
   integrity sha512-7w/dUrReI/QbJFHRwfomTlkQOXaB1NuCrBRn5Y26HXn5gvh18/19AgLbayVrNxXQfkckvgrJloWyvZDuJ7dhEA==
@@ -3922,11 +3922,6 @@ import-local@^3.0.2:
   dependencies:
     pkg-dir "^4.2.0"
     resolve-cwd "^3.0.0"
-
-import-modules@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/import-modules/-/import-modules-1.1.0.tgz#748db79c5cc42bb9701efab424f894e72600e9dc"
-  integrity sha1-dI23nFzEK7lwHvq0JPiU5yYA6dw=
 
 import-modules@^2.0.0:
   version "2.0.0"
