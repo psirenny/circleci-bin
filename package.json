@@ -47,7 +47,7 @@
     "@psirenny/npm-package-json-lint-config": "2.0.2",
     "@psirenny/remark-preset": "2.0.3",
     "@psirenny/retext-preset": "2.0.3",
-    "ava": "2.4.0",
+    "ava": "3.0.0",
     "babel-eslint": "10.0.3",
     "babel-plugin-preval": "3.0.1",
     "dictionary-en-us": "2.1.1",
