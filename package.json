@@ -50,7 +50,7 @@
     "ava": "2.4.0",
     "babel-eslint": "10.0.3",
     "babel-plugin-preval": "3.0.1",
-    "dictionary-en-us": "2.1.1",
+    "dictionary-en-us": "2.2.1",
     "dir-compare": "1.8.0",
     "eslint": "6.6.0",
     "eslint-config-airbnb-base": "14.0.0",
