@@ -7162,10 +7162,10 @@ retext-sentence-spacing@3.0.0:
     unist-util-is "^3.0.0"
     unist-util-visit "^1.1.0"
 
-retext-simplify@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/retext-simplify/-/retext-simplify-5.0.0.tgz#b8e0f40f3636e9acb1a1c5eeaace11aa2f4c010d"
-  integrity sha512-d9tiR94aaR4B1wah6p2GoFYsqkWc4ECWj0JNcRV5IFEDVYxvwj59F8OZLqmgeALr6xDbPFvaP1fX601PcdJnjg==
+retext-simplify@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/retext-simplify/-/retext-simplify-5.1.0.tgz#32d6d5bd1750c9cc44cb841aef98c177e64ce1a5"
+  integrity sha512-WFXod3EWb89ezM2vajDPhI7aJZ4Zm9emZWdm2GG7Gi6KLyzYq6sfqQdBFRm7JUExqmMLsB3cjc6NMWQRSbC/SA==
   dependencies:
     nlcst-search "^1.0.0"
     nlcst-to-string "^2.0.0"
