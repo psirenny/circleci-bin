@@ -1,7 +1,14 @@
 // @flow
 
 export default {
-  helpers: ['**/fixtures/**/*'],
+  babel: {
+    compileAsTests: ['test/helpers/**/*'],
+  },
+  files: [
+    'test/**/*',
+    '!test/**/fixtures/**/*',
+    '!test/helpers/**/*',
+  ],
   require: [
     '@babel/polyfill',
     '@babel/register',
