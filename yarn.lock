@@ -7793,14 +7793,14 @@ retext-spell@3.0.0:
     quotation "^1.1.0"
     unist-util-visit "^1.0.0"
 
-retext-syntax-mentions@1.1.6:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/retext-syntax-mentions/-/retext-syntax-mentions-1.1.6.tgz#909d6b9c34963b9f19cc8e18bd0d10e3e79c8e3f"
-  integrity sha512-e6+Kh3dhzdBn0mHeiiKGUJMMqKTC7O2t+blKZWR1VeP0Kbm6CU4D1p5r+eH24GNCWRnqv3NbDk7RbdALqPLTeQ==
+retext-syntax-mentions@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/retext-syntax-mentions/-/retext-syntax-mentions-2.0.0.tgz#0499e5250fc3ff0837bebf6abba21811981c9c01"
+  integrity sha512-8JseFRxGkcgxRkJpNuxWoEH0MIwrKtS8Hf25tkp6nw7zFCokpGHuNyyvuMWe6tdn+PU3petjW+D8LkILfeic2w==
   dependencies:
     nlcst-to-string "^2.0.0"
     unist-util-position "^3.0.0"
-    unist-util-visit "^1.1.0"
+    unist-util-visit "^2.0.0"
 
 retext-syntax-urls@1.0.2:
   version "1.0.2"
