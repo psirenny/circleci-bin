@@ -7618,14 +7618,14 @@ retext-assuming@1.0.0:
     quotation "^1.1.0"
     unist-util-find-before "^2.0.1"
 
-retext-contractions@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/retext-contractions/-/retext-contractions-3.0.0.tgz#01fa2d0864340cf79bf4c86637c87dd4f9eab767"
-  integrity sha512-Wn95agseXHTsoXvhavuTcnwUEb9TbL7QtnYkHeFMh8L53jdQbbooLX68cbpKyaaPbxYiomrgJpu7eB3arcr2rw==
+retext-contractions@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/retext-contractions/-/retext-contractions-4.0.0.tgz#cef6b7f7949a87e17e073fa7e0f8f9a29db61f74"
+  integrity sha512-0T+QE+mFBfYiZHqD+86yM19PjEN3w6Z2boTWpYZb4L6JyzMN4luHUzNHwaL8HtkbxHEe0j8yqLrYnTD+qoOEyw==
   dependencies:
     nlcst-is-literal "^1.0.0"
     nlcst-to-string "^2.0.0"
-    unist-util-visit "^1.1.0"
+    unist-util-visit "^2.0.0"
 
 retext-diacritics@2.0.0:
   version "2.0.0"
