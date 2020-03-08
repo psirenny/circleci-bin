@@ -6438,11 +6438,6 @@ plur@^4.0.0:
   dependencies:
     irregular-plurals "^3.2.0"
 
-pluralize@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-7.0.0.tgz#298b89df8b93b0221dbf421ad2b1b1ea23fc6777"
-  integrity sha512-ARhBOdzS3e41FbkW/XWrTEtukqqLoK5+Z/4UeDaLuSW+39JPeFgs4gCGqsrJHVZX0fUrx//4OF0K1CUGwlIFow==
-
 pluralize@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-8.0.0.tgz#1a6fa16a38d12a1901e0320fa017051c539ce3b1"
@@ -7721,10 +7716,10 @@ retext-quotes@3.0.0:
     unist-util-is "^3.0.0"
     unist-util-visit "^1.1.0"
 
-retext-readability@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/retext-readability/-/retext-readability-5.0.0.tgz#7484720379c5677c53af80b3ebf38d628fe4fb65"
-  integrity sha512-g3AzwyfPKUH0KLP57+kpeRJFI3uxu7x+UP4NH5srtmAhyt7b45JJfzMNwt73cYraq2AG+aMlQ541cjeefjsQlg==
+retext-readability@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/retext-readability/-/retext-readability-6.0.0.tgz#a333adf6bd31c50aab53de30ff098bfa6b4f33ad"
+  integrity sha512-fDPT42PhpsoKX5NECtZix0/MiaUVpYYaB1FFexacEvMWAQZvdZz2nZupRvNgKXpqxO2VdrVHbX0QtwKf2jYYbQ==
   dependencies:
     automated-readability "^1.0.0"
     coleman-liau "^1.0.0"
@@ -7736,8 +7731,8 @@ retext-readability@5.0.0:
     smog-formula "^1.0.0"
     spache "^1.1.0"
     spache-formula "^1.0.0"
-    syllable "^3.2.0"
-    unist-util-visit "^1.0.0"
+    syllable "^4.0.0"
+    unist-util-visit "^2.0.0"
 
 retext-redundant-acronyms@2.0.0:
   version "2.0.0"
@@ -8456,14 +8451,13 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-syllable@^3.2.0:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/syllable/-/syllable-3.6.1.tgz#1b08a0522c14ebc4db871f5697f68f49616e87d8"
-  integrity sha512-L2yAT4DRi9rwHpHMResxA/VKSM9T7X+eRAOEKoAFvHJxaxjtxT2Rt8qfB6pbrxeOZWsHu+ON0kTc9Oo0lU2PHA==
+syllable@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/syllable/-/syllable-4.0.1.tgz#77afcef629cb2693f68b31ec51102d6134df5a5c"
+  integrity sha512-OBjxXbamHkfJcgdG4MWfCa6vTeOsxyc1MBDkX2o+H4zr8WcHtTrBzPYKXiwtz3k/ItqMNdmgZej4EdGdmEVc6A==
   dependencies:
     normalize-strings "^1.1.0"
-    pluralize "^7.0.0"
-    trim "0.0.1"
+    pluralize "^8.0.0"
 
 table@^5.2.3, table@^5.4.6:
   version "5.4.6"
