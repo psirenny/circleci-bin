@@ -5736,6 +5736,15 @@ nlcst-search@^1.0.0, nlcst-search@^1.1.1, nlcst-search@^1.4.2:
     nlcst-normalize "^2.1.0"
     unist-util-visit "^1.0.0"
 
+nlcst-search@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/nlcst-search/-/nlcst-search-2.0.0.tgz#d5f3b8509b0ecfb1d39760122c2acd84f71bd94d"
+  integrity sha512-+3xdctMFTcG+76vKAa0wObNg1EYq7IIQlZcL+HxSFXkHO1DgSPRjsPJrmelVIvMg7rk+wmBcdPEoScv/CTT1Zw==
+  dependencies:
+    nlcst-is-literal "^1.0.0"
+    nlcst-normalize "^2.0.0"
+    unist-util-visit "^2.0.0"
+
 nlcst-to-string@^2.0.0, nlcst-to-string@^2.0.1:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/nlcst-to-string/-/nlcst-to-string-2.0.4.tgz#9315dfab80882bbfd86ddf1b706f53622dc400cc"
@@ -7687,13 +7696,13 @@ retext-intensify@4.0.0:
     unist-util-position "^3.0.0"
     weasels "^1.0.0"
 
-retext-passive@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/retext-passive/-/retext-passive-2.0.0.tgz#23f86b1bace1d8a99beb2deaf753a7950e298819"
-  integrity sha512-IIOEH6p3Eu/sTYWEgDfdOBnEsDqxa6ZnHJjPNo6u4gfGct5rH4oaEaApTGpEIkYigUpylIHK0U6iWieqbBja0Q==
+retext-passive@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/retext-passive/-/retext-passive-3.0.0.tgz#dbec1fff549c9e5295c537f2e03fc23903becdae"
+  integrity sha512-6f6PeJEtmUp7SszIW2rSdphzhiSG7k7nfZbL8jCvNEK5xXmwMpu88NZPWz0cmsemv1hWkOrNS77IHfEGHAHCyQ==
   dependencies:
     lodash.difference "^4.5.0"
-    nlcst-search "^1.0.0"
+    nlcst-search "^2.0.0"
     nlcst-to-string "^2.0.0"
     unist-util-find-before "^2.0.0"
     unist-util-position "^3.0.0"
