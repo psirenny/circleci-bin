@@ -7752,14 +7752,14 @@ retext-redundant-acronyms@2.0.0:
     unist-util-find-after "^2.0.0"
     unist-util-position "^3.0.0"
 
-retext-repeated-words@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-2.0.0.tgz#93e8f5b81b76388910b1453a0d9c527460e95637"
-  integrity sha512-CGqM88ViAKtSgdWGObTU974AdmfxyiyB19MvuQTBBW3crWYIS7p21m0sJH/pCnp11gVa0YOU+vqdNaSvRiLTFA==
+retext-repeated-words@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/retext-repeated-words/-/retext-repeated-words-3.0.0.tgz#741fa9ff82a8c900d52e2697649813740aaa11f7"
+  integrity sha512-c9awbCxn3h+SVVYwEeJA+rcWWFiOvxrcD8MVFpyVpWu0q1cXG7NIyWclEzXDV12SkqKgR/vmBJh3tIJCfxmDAA==
   dependencies:
     nlcst-to-string "^2.0.0"
-    unist-util-is "^3.0.0"
-    unist-util-visit "^1.1.0"
+    unist-util-is "^4.0.0"
+    unist-util-visit "^2.0.0"
 
 retext-sentence-spacing@3.0.0:
   version "3.0.0"
