@@ -1291,10 +1291,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/remark-preset/-/remark-preset-3.0.2.tgz#0f3286492c47e3eb2cf594ee3b888071bcf9fa28"
   integrity sha512-Y4aMOgO9mJ7okm4GIZRMhPTXzifsz1nY8e9O9kzdvfjl9Jcw7Wz+TgB9FbBiyEzNfcCsDcLRJB0pdyk0AOysmA==
 
-"@psirenny/retext-preset@3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-3.0.2.tgz#750678157ca933a58437013fd7721ae431ff5d13"
-  integrity sha512-EtNJQbluGy/Gw+W7wvjZRVPyjJ9YixDXyVSQKrKAuxutBzhh8hepYsZm6MQPqQ48p5x/Cy2J30pSn65S2VZSbg==
+"@psirenny/retext-preset@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/retext-preset/-/retext-preset-4.0.0.tgz#252dd767e0e079c11aa01f6b2a01b39f8828347a"
+  integrity sha512-2QMcnXOBtZkPFBecDuP1ee1/QKipXPQtkqjOrE1IGulJV938LdyeU9TH2hr5LyIdA/mj3ibj8zwBXGT07XgrjQ==
   dependencies:
     "@psirenny/dictionary" "3.0.2"
 
