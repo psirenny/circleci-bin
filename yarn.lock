@@ -1281,10 +1281,10 @@
   resolved "https://registry.yarnpkg.com/@psirenny/eslint-config/-/eslint-config-3.1.1.tgz#4b2d0a5274e9a1a02363636b0d56875dcd5e4d08"
   integrity sha512-qCTGqiZobsVkliPkw3PUafkMHQ2+Bj61YLE3uGnCvIlUWB8qPz8lIOjn6Z1W7deckzlPQUpAV7HV3UUiMK1ccg==
 
-"@psirenny/npm-package-json-lint-config@3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-3.0.2.tgz#13a88c20eabc47e78e234cdda7ee1ddf08b42045"
-  integrity sha512-kHrrIvQgc/2Y4NE5qL/mxldmF9l+4ZG9okhW9dJEXzZzJGwfcefD6dypWSb1RVew1kMXz4E39UQq6j9DM4AbPw==
+"@psirenny/npm-package-json-lint-config@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@psirenny/npm-package-json-lint-config/-/npm-package-json-lint-config-4.0.0.tgz#c5b34e1d2a6fa12adf3bf4a7d7e73a3d2e55b91c"
+  integrity sha512-jEHdDbU/QGFdljYzh88nsf+xexDAA6W6XAKLj5ZBQtwzwKaHFzDzT2CxDHlXMkMfB+/MiFFGqyYTMyUE4Og0uA==
 
 "@psirenny/remark-preset@3.0.2":
   version "3.0.2"
