@@ -50,7 +50,7 @@
     "@psirenny/retext-preset": "3.0.2",
     "ava": "3.4.0",
     "babel-eslint": "10.1.0",
-    "babel-plugin-preval": "4.0.0",
+    "babel-plugin-preval": "5.0.0",
     "dictionary-en-us": "2.2.1",
     "dir-compare": "2.2.0",
     "eslint": "6.8.0",
