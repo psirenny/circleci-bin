@@ -6806,7 +6806,19 @@ remark-cli@7.0.1:
     remark "^11.0.0"
     unified-args "^7.0.0"
 
-remark-lint-blockquote-indentation@1.0.3, remark-lint-blockquote-indentation@^1.0.0:
+remark-lint-blockquote-indentation@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-blockquote-indentation/-/remark-lint-blockquote-indentation-1.0.4.tgz#246b0bcf6ce83ed3eb3e306bba65d08e8cdeb5d2"
+  integrity sha512-ExcDP7lufshEBNkVddSHa+Bz/97PtFstIniQ8ZF2TahHPmpx92z3mkI/nXL2Qt5d3B09eTVvh4Pvhgp6x2470g==
+  dependencies:
+    mdast-util-to-string "^1.0.2"
+    plur "^3.0.0"
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+
+remark-lint-blockquote-indentation@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/remark-lint-blockquote-indentation/-/remark-lint-blockquote-indentation-1.0.3.tgz#9c35235dd0e904ad6c085e9f66d94b3f13968d1f"
   integrity sha512-qK4C1l2VmeOVWEAkDYP0CaDtSFoaEBEo5l4oyz1kTkY7YB0Jh7llW2KjuhJz5IzMLmloKJzIyGwlu/odcwaHpg==
