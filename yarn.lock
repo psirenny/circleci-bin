@@ -7246,7 +7246,17 @@ remark-lint-ordered-list-marker-value@^1.0.0:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-rule-style@1.0.3, remark-lint-rule-style@^1.0.0:
+remark-lint-rule-style@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-rule-style/-/remark-lint-rule-style-1.0.4.tgz#16de7183711f9bcc96355e3f475f793090552b58"
+  integrity sha512-omr5P6CCvo2zixCzK9uiGZpwzOE+4rc+95kWH95k2iA6Rp8Qohp8RK4unSRKLtFYGUhSbiQPgWaQXHDxMkWczg==
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+
+remark-lint-rule-style@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/remark-lint-rule-style/-/remark-lint-rule-style-1.0.3.tgz#859aef4d2e2180ecf9db56360497372b90a04aab"
   integrity sha512-SJe7IFORYRdo8JUhMSdcTktVAUVNVp36YYl1ZD9CfHqQHWlFD+3vWYzJXOZfog/i+CyWf7Yi0WVYmQes+167dA==
