@@ -7266,7 +7266,17 @@ remark-lint-strong-marker@1.0.3, remark-lint-strong-marker@^1.0.0:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-table-cell-padding@1.0.4, remark-lint-table-cell-padding@^1.0.0:
+remark-lint-table-cell-padding@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-1.0.5.tgz#0a533eaa60746a5976704ec9e6e49de311d67a95"
+  integrity sha512-N/WpcymrGBSPbLiv2OQTvdzNn6H9ctdyEA+P/odn4G9FqyrLmeTMkGJuGtinU569hLG/RtHqZIDeFVDiYi8Wzw==
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.4.0"
+
+remark-lint-table-cell-padding@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/remark-lint-table-cell-padding/-/remark-lint-table-cell-padding-1.0.4.tgz#be2b020a3985c414abb59cc5d88fda1993f8f2e8"
   integrity sha512-AQWWtV1yca1PN27QaFRJbBK6Ro/bopv1XnVKxj/iMebhOU2D2FBJ8rXmMZXVMC3G9OB2WSzGgqH3nP6QY12LoA==
