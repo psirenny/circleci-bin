@@ -3048,10 +3048,10 @@ dictionary-en-us@2.2.1:
   resolved "https://registry.yarnpkg.com/dictionary-en-us/-/dictionary-en-us-2.2.1.tgz#f57ef9ae0edcfa0a70db6558843de5a01cb87771"
   integrity sha512-Z8mycV0ywTfjbUTi0JZfQHqBZhu4CYFtpf7KluSGpt3xHpFlal2S/hiK50tlPynOtR5K3pG5wCradnz1yxwOHA==
 
-dir-compare@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-2.2.0.tgz#945ae53b685cba8de7172442c657d5bcbef680b9"
-  integrity sha512-cmOgS23lSolrsdrDSwWdu/USalfXEwQ/4r3MyIur2U/td2pIp8TnO71ME4M8siaE49xg43tIVX3XzriDOgfdow==
+dir-compare@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/dir-compare/-/dir-compare-2.3.0.tgz#a8348a83b3f8a40742482af9cd42723f0ead3234"
+  integrity sha512-oztUSerxwP+QPkRcH1AmqcK12nJCrLFXBXGZ1GUbkpVORFkTS8Ewzb9mPlOr3oXk9c6aj2ckJ2+cXhIMbsJBDA==
   dependencies:
     buffer-equal "1.0.0"
     colors "1.0.3"
