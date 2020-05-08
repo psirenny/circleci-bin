@@ -107,7 +107,7 @@
     "retext-syntax-urls": "1.0.2",
     "rollup": "1.31.1",
     "rollup-plugin-babel": "5.0.0-alpha.0",
-    "rollup-plugin-executable": "1.5.2",
+    "rollup-plugin-executable": "1.6.0",
     "standard-version": "7.1.0",
     "trash-cli": "3.0.0",
     "unified": "8.4.2"
