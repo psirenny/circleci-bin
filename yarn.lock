@@ -1266,10 +1266,10 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@psirenny/babel-preset@3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-3.0.2.tgz#5e38377275e0ba2c8c5260aeb8a43c9d48c17b50"
-  integrity sha512-ax1Oj0fvmaa3mJYEPehFSWboT2FktqEhiEmRcacBnnJK79lf2vVCLrV7Fj+lbQl91VMEQEx0ww7dT4NPQPTa0g==
+"@psirenny/babel-preset@4.0.2":
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/@psirenny/babel-preset/-/babel-preset-4.0.2.tgz#eeff7d9bad8eef36677f374703097fb193050850"
+  integrity sha512-G09w9tb68jThZ5+g2q8Q8alO3ELUw2f4WKxeJsG2Fmu5VAligqJh4wqhtDSc5MIvOO98t9dsHqMPIQEdPUQbRg==
 
 "@psirenny/dictionary@3.0.2":
   version "3.0.2"
