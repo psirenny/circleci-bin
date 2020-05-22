@@ -47,7 +47,7 @@
     "@psirenny/eslint-config": "3.1.1",
     "@psirenny/npm-package-json-lint-config": "3.0.2",
     "@psirenny/remark-preset": "3.0.2",
-    "@psirenny/retext-preset": "3.0.2",
+    "@psirenny/retext-preset": "4.0.2",
     "ava": "3.4.0",
     "babel-eslint": "10.1.0",
     "babel-plugin-preval": "4.0.0",
