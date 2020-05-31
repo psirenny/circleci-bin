@@ -42,7 +42,7 @@
     "@babel/preset-env": "7.8.6",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
-    "@psirenny/babel-preset": "3.0.2",
+    "@psirenny/babel-preset": "4.0.4",
     "@psirenny/dictionary": "3.0.2",
     "@psirenny/eslint-config": "3.1.1",
     "@psirenny/npm-package-json-lint-config": "3.0.2",
