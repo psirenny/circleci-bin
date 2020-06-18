@@ -3160,10 +3160,10 @@ detect-newline@3.1.0:
   resolved "https://registry.yarnpkg.com/detect-newline/-/detect-newline-3.1.0.tgz#576f5dfc63ae1a192ff192d8ad3af6308991b651"
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
-dictionary-en-us@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/dictionary-en-us/-/dictionary-en-us-3.0.0.tgz#1dec2716099f46a2b3577c401b278dc5fd28f1bc"
-  integrity sha512-hH033rB5pdVb51QBUBleq8z5XajVrs2tVRe26ZvIJzf5/c8BwZKlPXhr7rrW39AxZz5RQQhPpC/RMbmWtWtBUg==
+dictionary-en@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/dictionary-en/-/dictionary-en-3.0.1.tgz#bebcd9efcd7e2adf45470eb8cded9ea6010ad45e"
+  integrity sha512-IMVLlTXYGlKwmzTMvRzLDx/BCl9Tq3l56xY7URaH4eZMIufl7myaaXJJyTH6qdjXOxKMOkzE2t3rp3Ql7QciBA==
 
 dir-compare@2.3.0:
   version "2.3.0"
