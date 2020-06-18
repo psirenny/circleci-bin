@@ -133,8 +133,6 @@
     "flow:install": "run-s flow:update",
     "flow:stub": "flow-typed create-stub",
     "flow:update": "flow-typed update",
-    "install:bin": "dist/install-binary",
-    "install:dev": "yarn install --ignore-scripts && yarn run build && yarn install --force",
     "lint": "run-s lint:js lint:md lint:pkg",
     "lint:js": "eslint . --ext .js,.md",
     "lint:md": "remark --frail .",
